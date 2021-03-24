@@ -8,7 +8,7 @@ require(DESeq2)
 require(fgsea)
 require(apeglm)
 
-rsem_file <- here('data/ext/EBPlusPlusAdjustPANCAN_IlluminaHiSeq_RNASeqV2.geneExp.tsv.gz')
+rsem_file <- here('data/ext/EBPlusPlusAdjustPANCAN_IlluminaHiSeq_RNASeqV2.geneExp.tsv')
 hallmark_geneset_file <- here('data/ext/h.all.v7.1.symbols.gmt')
 
 ## create the expected directories for output

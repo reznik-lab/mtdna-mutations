@@ -80,7 +80,7 @@ Rscript r/do/annotate_sample_mutations.R
 ## Generates: 
 ## - data/processed_data/rnaseq/
 ## Download TCGA RNA-Seq RSEM counts (1.8GB file, will take some time):
-wget http://api.gdc.cancer.gov/data/3586c0da-64d0-4b74-a449-5ff4d9136611 -O data/original_data/resources/EBPlusPlusAdjustPANCAN_IlluminaHiSeq_RNASeqV2.geneExp.tsv
+wget http://api.gdc.cancer.gov/data/3586c0da-64d0-4b74-a449-5ff4d9136611 -O data/ext/EBPlusPlusAdjustPANCAN_IlluminaHiSeq_RNASeqV2.geneExp.tsv
 
 ## Run DESeq and fGSEA analyses:
 Rscript r/do/run_deseq.R
