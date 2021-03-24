@@ -1,7 +1,4 @@
-## is there a difference in gene expression between truncating +/- samples?
-## if so, what about for hotspot samples? is there a difference?
-## do noncanonical cancertypes with mt-loss phenocopy (renal, thyroid, colorectal)
-
+## test tumors with various somatic mtdna genotypes to assess transcriptional impact of mtdna mutations.
 
 source(here::here('r/prerequisites.R'))
 require(DESeq2)
