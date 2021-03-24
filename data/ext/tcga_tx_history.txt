@@ -1,0 +1,322 @@
+Tumor_Sample_Barcode	prior_tx	notes
+TCGA-02-0001	yes	"per enrollment form, patient received neo-adjuvant therapy."
+TCGA-02-0007	yes	"per enrollment form, patient received neo-adjuvant therapy."
+TCGA-02-0010	yes	"per enrollment form, patient received neo-adjuvant therapy."
+TCGA-02-0021	yes	"per enrollment form, patient received neo-adjuvant therapy."
+TCGA-02-0023	yes	subject positive for neoadjuvant therapy.
+TCGA-02-0024	yes	"per enrollment form, patient received neo-adjuvant therapy."
+TCGA-02-0028	yes	"per enrollment form, patient received neo-adjuvant therapy."
+TCGA-02-0043	yes	"per enrollment form, patient received neo-adjuvant therapy."
+TCGA-02-0055	yes	subject positive for neoadjuvant therapy.
+TCGA-02-0057	yes	"per enrollment form, patient received neo-adjuvant therapy."
+TCGA-02-0058	yes	"per enrollment form, patient had a prior diagnosis of a lower grade glioma.  current tcga tissue is reported as treated tissue."
+TCGA-02-0080	yes	"per enrollment form, patient received neo-adjuvant therapy."
+TCGA-02-0083	yes	"per enrollment form, patient received neo-adjuvant therapy."
+TCGA-02-0089	yes	"per enrollment form, patient received neo-adjuvant therapy."
+TCGA-02-0099	yes	radiation treatment start date prior to date of procurement.
+TCGA-02-0102	yes	"per enrollment form, patient received neo-adjuvant therapy."
+TCGA-02-0107	yes	"per enrollment form, patient received neo-adjuvant therapy."
+TCGA-02-0113	yes	"per enrollment form, patient received neo-adjuvant therapy."
+TCGA-02-0114	yes	"per enrollment form, patient received neo-adjuvant therapy."
+TCGA-02-0116	yes	"per enrollment form, patient received neo-adjuvant therapy."
+TCGA-02-2470	yes	"per enrollment form, patient received neo-adjuvant therapy."
+TCGA-05-4245	yes	prior malignancy colon cancer treated with systemic chemotherapy.
+TCGA-05-4245	yes	prior malignancy colon cancer treated with systemic chemotherapy.
+TCGA-05-5420	yes	prior malignancy prostate cancer treated with hormone therapy. prior malignancy secondary malignancy of unknown location treated with radiation in unknown field.
+TCGA-05-5420	yes	prior malignancy prostate cancer treated with hormone therapy. prior malignancy secondary malignancy of unknown location treated with radiation in unknown field.
+TCGA-06-0209	yes	prior malignancy with systemic treatment
+TCGA-06-0209	yes	prior malignancy with systemic treatment and locoregional radiation
+TCGA-06-6391	unknown	prior breast cancer as per pathology report treatment not specified.
+TCGA-06-6700	unknown	prior prostate malignancy as per pathology report treatment not specified.
+TCGA-09-2056	yes	prior malignancy right breast cancer treated with chemo and radiation per path report.
+TCGA-14-1451	yes	subject positive for neoadjuvant therapy.
+TCGA-14-1454	yes	subject positive for neoadjuvant therapy.
+TCGA-18-3407	yes	prior malignancy r tongue treated with radiation.
+TCGA-18-3407	yes	prior malignancy r tongue treated with radiation.
+TCGA-18-3409	yes	prior malignancy basal cell carcinoma of the forehead.  no systemic chemotherapy or radiation.  prior malignancy basaloid squamous cell carcinoma of the anal canal treated with chemotherapy and radiation.
+TCGA-18-3409	yes	prior malignancy basal cell carcinoma of the forehead.  no systemic chemotherapy or radiation.  prior malignancy basaloid squamous cell carcinoma of the anal canal treated with chemotherapy and radiation.
+TCGA-18-3416	unknown	prior malignancy melanoma of the left chest. prior malignancy melanoma of the arm.  unknown treatment history.
+TCGA-18-5595	yes	prior malignancy cancer of the pharynx treated with cisplatin.
+TCGA-18-5595	yes	prior malignancy cancer of the pharynx treated with cisplatin.
+TCGA-21-1070	yes	prior malignancy  breast cancer treated with chemo and radiation per path report
+TCGA-21-1077	unknown	unknown treatment history
+TCGA-21-1078	unknown	unknown treatment history
+TCGA-21-1083	unknown	unknown treatment history
+TCGA-21-A5DI	unknown	unknown treatment history
+TCGA-22-1000	yes	prior malignancy prostate cancer treated w/ radation
+TCGA-22-1017	yes	[intgen.org]: subject positive for neo-adjuvant therapy
+TCGA-22-1017	yes	prior malignancy and neo-adjuvant treatment per enrollment form.
+TCGA-22-1017	yes	prior malignancy and neo-adjuvant treatment per enrollment form.
+TCGA-24-2036	yes	prior malignancy  breast cancer treated with systemic treatment per path report.
+TCGA-25-2390	yes	[intgen.org]: subject positive for neo-adjuvant therapy
+TCGA-28-2499	yes	[intgen.org]: subject positive for neo-adjuvant therapy
+TCGA-28-2512	yes	[intgen.org]: subject positive for neo-adjuvant therapy
+TCGA-32-2495	yes	"per enrollment form, patient had a prior diagnosis of a lower grade glioma.  current tcga tissue is reported as treated tissue."
+TCGA-32-2495	yes	"per enrollment form, patient received neo-adjuvant therapy."
+TCGA-32-4209	yes	"per enrollment form, patient had a prior diagnosis of a lower grade glioma.  current tcga tissue is reported as treated tissue."
+TCGA-33-4538	yes	patient received neo-adjuvant treatment prior to resection of tcga tumor per enrollment form.
+TCGA-33-4589	yes	prior malignancy scc of the tongue treated with locoregional radiation.
+TCGA-33-4589	yes	prior malignancy scc of the tongue treated with locoregional radiation.
+TCGA-33-6737	yes	prior malignancy  hairy cell leukemia treated with 2-cda and pentostatin.
+TCGA-34-2604	yes	prior malignancy  bladder cancer treated w/ locoregional radiation.
+TCGA-36-2539	yes	prior malignancy of l breast cancer. no systemic chemotherapy or radiation. prior malignancy  r breast cancer treated with taxoterene.
+TCGA-36-2539	yes	prior malignancy of l breast cancer. no systemic chemotherapy or radiation. prior malignancy  r breast cancer treated with taxoterene.
+TCGA-38-4629	yes	prior malignancy  of the larynx treated with chemotherapy and radiation.
+TCGA-38-4630	yes	prior malignancy  uterine serous endometrial adenocarcinoma treated wtih  systemic radiation.
+TCGA-39-5039	yes	"prior malignancy  prostate cancer, treated with hormone therapy and locoregional radiation."
+TCGA-42-2593	yes	"[intgen.org]: subject positive for neo-adjuvant therapy; patient had received methotrexate for arthritis, not as part of cancer therapy."
+TCGA-44-2661	yes	pt with synchronous r breast cancer treated with femara prior to procurement of tumor submitted to tcga.
+TCGA-44-2661	yes	pt with synchronous r breast cancer treated with femara prior to procurement of tumor submitted to tcga.
+TCGA-44-6147	yes	prior malignancy  of bowel carcinoid tumor treated with sandostatin. prior malignancyr kirp. no systemic chemotherapy or radiation .
+TCGA-50-5072	yes	[intgen.org]: neoadjuvant therapy
+TCGA-51-6867	yes	prior malignancy cancer of the larynx treated with locoregional radiation.
+TCGA-51-6867	yes	prior malignancy cancer of the larynx treated with locoregional radiation.
+TCGA-55-1595	yes	prior malignancy of r breast cancer treated with locoregional radiation. (tcga tumor from l lung.)
+TCGA-55-7725	yes	prior malignancy  of the throat treated with locoregional radiation. prior malignancy  of the jaw. no systemic chemotherapy or radiation .
+TCGA-60-2696	yes	prior malignancy  breast cancer treated w/ tamoxifen and radiation and tymus cancer treated w/ cancerrboplatin and paclitaxel
+TCGA-60-2710	yes	[intgen.org]: subject positive for neo-adjuvant therapy
+TCGA-60-2712	yes	prior malignancy  l breast cancer treated w/ locoregional radiation (tcga tumor is in l upper lobe of lung)
+TCGA-60-2715	yes	prior malignancy of the larynx treated w/ chemotherapy  and radiation.
+TCGA-61-1721	yes	[intgen.org]: subject positive for neo-adjuvant therapy
+TCGA-64-1677	yes	prior malignancy thyroid cancer treated with locoregional radiation
+TCGA-77-A5GA	unknown	unknown treatment history
+TCGA-80-5611	yes	prior malignancy  treated with loco-regional radiation to the neck.
+TCGA-80-5611	yes	prior malignancy  treated with loco-regional radiation to the neck.
+TCGA-86-8076	yes	prior malignancy  prostate cancer treated with locoregional radiation.
+TCGA-93-8067	yes	prior malignancy  prostate cancer treated with locoregional radiation.
+TCGA-93-8067	yes	prior malignancy  prostate cancer treated with locoregional radiation.
+TCGA-94-7033	yes	prior malignancy bladder cancer treated with locoregional intravesical therapy
+TCGA-94-7033	yes	prior malignancy bladder cancer treated with locoregional intravesical therapy
+TCGA-95-7562	yes	prior malignancy prostate cancer treated with locoregional radiation.
+TCGA-95-7562	yes	prior malignancy prostate cancer treated with locoregional radiation.
+TCGA-96-A4JK	yes	patient received bacillus calmette-guerin treatment for a prior bladder cancer. no radiation.
+TCGA-A2-A0YT	yes	subject is positive for neoadjuvant therapy.
+TCGA-A3-3329	yes	prior malignancy  prostate cancer treated w/ radiation
+TCGA-A3-3336	yes	patient with synchronous non-hodgkins lymphoma treated w/ r-chop prior to procurement of tcga tumor
+TCGA-A3-3336	yes	patient with synchronous non-hodgkins lymphoma treated w/ r-chop prior to procurement of tcga tumor
+TCGA-A3-3343	yes	prior malignancy  prostate cancer treated w/hormone therapy
+TCGA-A6-2677	yes	synchronous malignancy l kirc treated with locoregional radiation
+TCGA-A8-A084	yes	systemic treatment given to the prior/other malignancy
+TCGA-A8-A08F	yes	systemic treatment given to the prior/other malignancy
+TCGA-A8-A08S	yes	systemic treatment given to the prior/other malignancy
+TCGA-A8-A09E	yes	systemic treatment given to the prior/other malignancy
+TCGA-A8-A09K	yes	systemic treatment given to the prior/other malignancy
+TCGA-AA-3506	yes	prior malignancy prostate cancer treated with radiation.
+TCGA-AA-3516	yes	prior malignancy skin cancer. no systemic chemotherapy or radiation. prior malignancy rectal cancer treated w/ systemic chemotherapy.
+TCGA-AA-3516	yes	prior malignancy skin cancer. no systemic chemotherapy or radiation. prior malignancy rectal cancer treated w/ systemic chemotherapy.
+TCGA-AA-3521	yes	prior malignancy  prostate cancer treated w/  hormone therapy
+TCGA-AA-3521	yes	prior malignancy  prostate cancer treated w/  hormone therapy
+TCGA-AA-3524	yes	prior malignancy  prostate cancer treated w/  hormone therapy
+TCGA-AA-3524	yes	prior malignancy  prostate cancer treated w/  hormone therapy
+TCGA-AA-3530	yes	prior malignancy  testicular cancer treated w/ radiation
+TCGA-AA-3530	yes	prior malignancy  testicular cancer treated w/ radiation
+TCGA-AA-3543	yes	prior malignancy  prostate cancer treated w/  hormone therapy
+TCGA-AA-3543	yes	prior malignancy  prostate cancer treated w/  hormone therapy
+TCGA-AA-3552	yes	prior malignancy  prostate cancer treated w/  hormone therapy
+TCGA-AA-3552	yes	prior malignancy  prostate cancer treated w/  hormone therapy
+TCGA-AA-3554	yes	prior malignancy  breast cancer treated w/ hormone therapy (mistletoe) and radiation.
+TCGA-AA-3554	yes	prior malignancy  breast cancer treated w/ hormone therapy (mistletoe) and radiation.
+TCGA-AA-3556	yes	prior malignancy  treated w/ systemic  chemotherapy.
+TCGA-AA-3556	yes	prior malignancy  treated w/ systemic  chemotherapy.
+TCGA-AA-3562	yes	prior malignancy  breast cancer treated with unknown hormone therapy. pt with  synchronous colon cancer.
+TCGA-AA-3562	yes	prior malignancy  breast cancer treated with unknown hormone therapy. pt with  synchronous colon cancer.
+TCGA-AA-3562	yes	prior malignancy  breast cancer treated with unknown hormone therapy. pt with  synchronous colon cancer.
+TCGA-AA-3662	yes	prior malignancy breast cancer treated with unknown hormone therapy.
+TCGA-AA-3662	yes	prior malignancy breast cancer treated with unknown hormone therapy.
+TCGA-AA-3672	yes	prior malignancy breast cancer treated with unknown hormone therapy.
+TCGA-AA-3672	yes	prior malignancy breast cancer treated with unknown hormone therapy.
+TCGA-AA-3697	yes	prior malignancy prostate cancer treated with chemotherapy and radiation.
+TCGA-AA-3697	yes	prior malignancy prostate cancer treated with chemotherapy and radiation.
+TCGA-AA-3860	yes	"prior malignancy  breast cancer treated with system chemotherapy, hormone therapy, and radiation."
+TCGA-AA-3860	yes	"prior malignancy  breast cancer treated with system chemotherapy, hormone therapy, and radiation."
+TCGA-AA-3870	yes	prior malignancy  breast cancer treated w/ radiation
+TCGA-AA-3870	yes	prior malignancy  breast cancer treated w/ radiation
+TCGA-AA-3972	yes	prior malignancy  ascending colon cancer treated w/ systemic chemotherapy. prior malignancy  mycosis fungoides. no systemic chemotherapy or radiation.
+TCGA-AA-3979	yes	prior malignancy  larnyx treated w/ radiation.
+TCGA-AF-3913	yes	prior malignancy prostate cancer treated with chemotherapy.
+TCGA-AF-3913	yes	prior malignancy prostate cancer treated with chemotherapy.
+TCGA-AG-3580	yes	prior malignancy  pancreas cancer treated w/radiation.
+TCGA-AG-3580	yes	prior malignancy pancreas cancer treated with radiation
+TCGA-AG-3611	yes	prior malignancy  prostate cancer treated w/ hormone therapy and radiation.
+TCGA-AG-3611	yes	prostate cancer treated with hormone therapy and radiation.
+TCGA-AG-3612	yes	prior malignancy  breast cancer treated w/ systemic  chemotherapy and radiation.
+TCGA-AG-3612	yes	prior malignancy breast cancer treated with systemic chemotherapy and radiation
+TCGA-AG-3612	yes	prior malignancy breast cancer treated with systemic chemotherapy and radiation.
+TCGA-AG-A00H	unknown	unknown treatment history
+TCGA-AG-A014	unknown	unknown treatment history
+TCGA-AG-A023	unknown	unknown treatment history
+TCGA-AK-3425	yes	prior malignancy prostate cancer treated w/ systemic chemotherapy and radiation
+TCGA-AK-3450	yes	prior malignancy  l luad treated w/ locoregional radiation.
+TCGA-AL-3468	yes	prior malignancy  of leukemia treated w/ systemic chemotherapy.
+TCGA-AL-A5DJ	unknown	unknown treatment history
+TCGA-AP-A053	yes	systemic treatment given to the prior/other malignancy
+TCGA-AQ-A0Y5	yes	systemic treatment
+TCGA-AR-A2LL	yes	systemic treatment given to the prior/other malignancy
+TCGA-AX-A06D	yes	systemic treatment given to the prior/other malignancy
+TCGA-AX-A1CP	unknown	unknown treatment history
+TCGA-AX-A1CR	unknown	unknown treatment history
+TCGA-AX-A2H8	unknown	unknown treatment history
+TCGA-AX-A2HF	unknown	unknown treatment history
+TCGA-AX-A3G3	unknown	unknown treatment history
+TCGA-AZ-6601	unknown	"case indicates 3 prior malignancies. prostate indicates locoregional therapy, previous colon cancer treatment was resection, it is unknown what type of treatment the patient had for bladder"
+TCGA-AZ-6601	yes	prior malignancy prostate cancer treated w/ radiation. (tumor sent to tcga was from sigmoid colon.)  prior malignancy  bladder cancer. prior malignancy  colon cancer. no systemic chemotherapy or radiation.
+TCGA-AZ-6608	yes	prior malignancy hodgkins lymphoma treated with chemotherapy and radiation.
+TCGA-AZ-6608	yes	prior malignancy hodgkins lymphoma treated with chemotherapy and radiation.
+TCGA-B0-4712	yes	prior malignancy prostate cancer treated with  radiation.
+TCGA-B0-4712	yes	prior malignancy prostate cancer treated with  radiation.
+TCGA-B1-A47O	yes	systemic treatment given to the prior/other malignancy
+TCGA-B5-A0KB	yes	systemic treatment given to the prior/other malignancy
+TCGA-B8-4621	yes	prior malignancy prostate cancer treated with locoregional radiation.
+TCGA-B8-4621	yes	prior malignancy prostate cancer treated with locoregional radiation.
+TCGA-B8-5162	yes	[intgen.org]: subject has hx of prior malignancy / subject was positive for neo-adjuvant therapy
+TCGA-B8-5162	yes	"prior malignancy  r kidney and prostate, no systemic therapy or radiation. neo-adjuvant sutent given for tcga tumor."
+TCGA-BA-4075	yes	[intgen.org]: subject positive for neo-adjuvant therapy
+TCGA-BA-4075	yes	"per case report forms, tongue cancer diagnosed 5/27/04. patient also had prior malignancy of tongue cancer that was treated with chemo and radiation july 2004.  tcga tumor removed oct 2004. (possible recurrence.)"
+TCGA-BA-4077	yes	prior malignancy  of tongue cancer treated with cisplatin and locoregional radiation. tumor submitted to tcga possibly recurrence of prior malignancy .
+TCGA-BC-A112	yes	patient had a prior prostate adenocarcinoma and received regional radiation. no systemic chemotherapy.
+TCGA-BD-A3ER	yes	patient had a prior prostate adenocarcinoma treated with systemic chemotherapy.
+TCGA-BG-A220	yes	patient had a prior kidney clear cell carcinoma treated with locoregional radation and systemic chemotherapy.
+TCGA-BG-A220	yes	systemic treatment given to the prior/other malignancy
+TCGA-BG-A221	unknown	unknown treatment history
+TCGA-BM-6198	yes	prior malignancy prostate cancer treated with locoregional radiation.
+TCGA-BM-6198	yes	prior malignancy prostate cancer treated with locoregional radiation.
+TCGA-BP-4158	yes	"prior malignancy  prostate cancer treated w/ hormones cancersodex, lupron and radiation"
+TCGA-BP-4160	yes	prior malignancy  prostate cancer treated w/ lupron. synchronous r kidney cancer
+TCGA-BP-4331	yes	prior malignancy  squamous cell carcinoma  of anus treated w/ 5-fu and mitomycin and locoregional radiation.  synchronous  malig.  of r kidney.
+TCGA-BP-4331	yes	prior malignancy  squamous cell carcinoma  of anus treated w/ 5-fu and mitomycin and locoregional radiation.  synchronous  malignancy  of r kirp.
+TCGA-BP-4342	yes	"prior malignancy  bladder cancer treated w/cisplatin, 5-fu, and radiation."
+TCGA-BP-4344	yes	prior malignancy  bladder cancer treated w/ mitomycin. prior malignancy  uterine cancer.  no systemic chemotherapy or radiation.
+TCGA-BP-4353	yes	prior malignancy  lymphoma of l groin treated w/ systemic chemotherapy.
+TCGA-BP-4354	yes	[intgen.org]: subject positive for neo-adjuvant therapy
+TCGA-BP-4760	yes	prior malignancy prostate cancer treated with locoregional radiation. patient with synchronous malignancy of r kirc.
+TCGA-BP-4760	yes	prior malignancy prostate cancer treated with locoregional radiation. patient with synchronous malignancy of r kirc.
+TCGA-BP-4760	yes	prior malignancy prostate cancer treated with locoregional radiation. patient with synchronous malignancy of r kirc.
+TCGA-BP-4965	yes	prior malignancy follicular lymphoma r groin treated with locoregional radiation
+TCGA-BP-4965	yes	prior malignancy follicular lymphoma r groin treated with locoregional radiation
+TCGA-BP-4976	yes	prior malignancy  colon cancer in unknown location treated w/ locoregional radiation. prior malignancy  prostate cancer. no systemic chemotherapy or radiation.
+TCGA-BP-4986	yes	prior malignancy  r colon cancer treated with systemic chemotherapy.
+TCGA-BP-4988	yes	prior malignancy  l lung adenocarcinoma treated with fludarabine and l lung bronchoalveolar cancer.  no systemic chemotherapy  or radiation.
+TCGA-BP-4995	yes	prior malignancy  basil cell carcinoma  of the neck with unknown chemotherapy  per e-mail.
+TCGA-BP-4999	yes	prior malignancy  melanoma of the l eye treated with locoregional radiation.
+TCGA-BP-5006	yes	prior malignancy  basil cell cancer treated with unknown chemotherapy  per e-mail.
+TCGA-BP-5009	yes	prior malignancy  hairy cell leukemia treated with interferon.
+TCGA-BP-5181	yes	prior malignancy l breast cancer treated with arimidex and locoregional radiation.
+TCGA-BP-5181	yes	prior malignancy l breast cancer treated with arimidex and locoregional radiation.
+TCGA-BP-5199	yes	prior malignancy  l lung cancer with brian mets treated with etoposide and cisplatin and locoregional radiation.
+TCGA-BQ-7049	yes	prior malignancy  basal cell cancer of the back. no chemotherapy or radiation.  pm melanoma of the eye treated with antigen-bearing dentric cells.
+TCGA-BQ-7056	yes	prior malignancy  malignant fibrous histiocytoma treated with adriamycin and locoregional radiation.
+TCGA-BQ-7058	yes	prior malignancy skin cancer.  no systemic chemotherapy or radiation. prior malignancy prostate cancer treated with locoregional androgen deprivation therapy and locoregional radiation.
+TCGA-BQ-7058	yes	prior malignancy skin cancer.  no systemic chemotherapy or radiation. prior malignancy prostate cancer treated with locoregional androgen deprivation therapy and locoregional radiation.
+TCGA-BT-A42C	yes	patient received bcg treatment for a non-muscle invasive bladder cancer
+TCGA-CG-4460	yes	prior malignancy  ovarian cancer treated with chemotherapy.
+TCGA-CG-4460	yes	prior malignancy  ovarian cancer treated with chemotherapy.
+TCGA-CG-4629	yes	prior malignancy  of the larynx treated with chemotherapy and radiation.
+TCGA-CG-4629	yes	prior malignancy  of the larynx treated with chemotherapy and radiation.
+TCGA-CG-4630	yes	prior malignancy  uterine serous endometrial adenocarcinoma treated wtih  systemic radiation.
+TCGA-CG-5716	yes	prior malignancy prostate cancer treated with chemotherapy and radiation.
+TCGA-CG-5716	yes	prior malignancy prostate cancer treated with chemotherapy and radiation.
+TCGA-CJ-4642	yes	"pt with synchronous b-cell lymphoma treated with cyclophosphamide, adriamycin, vincristine, prednisone, and rituxin prior to procurment of tcga tumor."
+TCGA-CJ-4642	yes	"pt with synchronous b-cell lymphoma treated with cyclophosphamide, adriamycin, vincristine, prednisone, and rituxin prior to procurment of tcga tumor."
+TCGA-CJ-4869	yes	[intgen.org]: subject positive for neo-adjuvant therapy
+TCGA-CJ-4869	yes	prior malignancy  and neo-adjuvant therapy per e-mail. (no data in oc.)
+TCGA-CJ-4900	yes	[intgen.org]: subject positive for neo-adjuvant therapy
+TCGA-CJ-5689	yes	prior malignancy prostate cancer treated with locoregional radiation.
+TCGA-CJ-5689	yes	prior malignancy prostate cancer treated with locoregional radiation.
+TCGA-CJ-6027	yes	prior malignancy prostate cancer treated with locoregional radiation.
+TCGA-CJ-6027	yes	prior malignancy prostate cancer treated with locoregional radiation.
+TCGA-CK-6754	yes	systemic treatment
+TCGA-CQ-6221	yes	"prior malignancy follicular lymphoma, no treatment. prior malignancy dlbcl treated with r-chop and radiation."
+TCGA-CQ-6221	yes	"prior malignancy follicular lymphoma, no treatment. prior malignancy dlbcl treated with r-chop and radiation."
+TCGA-CQ-6225	yes	tumor diagnosed 10/29/08 and treated with radiation 12/17/08.  recurrence was surgically removed 6/19/09 and this tumor was submitted to tcga.
+TCGA-CQ-A4C7	yes	patient had a prior prostate cancer that was treated with systemic chemotherapy. no radiation.
+TCGA-CS-6665	yes	prior malignancy breast cancer treated with radiation
+TCGA-CS-6665	yes	prior malignancy breast cancer treated with radiation
+TCGA-CS-6670	yes	pt had oligodendroma resected in 99 and 2004 and treated with temodar in 2004. tumor submitted to tcga was oligodendroma gr iii. site confirmed this was a recurrence.
+TCGA-CV-7406	yes	patient was treated with neo-adjuvant cetuxinab and radiation.
+TCGA-CV-7437	yes	patient was treated with neo-adjuvant radiation.
+TCGA-CV-7440	yes	"cancer diagnosed july 2000 and treated with radiation.  per site, tumor recurred and  was surgically removed 2/16/01 and this tumor was submitted to tcga."
+TCGA-CV-7568	yes	patient was treated with neo-adjuvant radiation.
+TCGA-CZ-4856	yes	prior malignancy breast cancer treated with locoregional radiation.
+TCGA-CZ-4856	yes	prior malignancy breast cancer treated with locoregional radiation.
+TCGA-CZ-4861	yes	[intgen.org]: subject was positive for neo-adjuvant therapy
+TCGA-CZ-4862	yes	prior malignancy b-cell non-hodgkins lymphoma of the forehead treated with locoregional radiation.
+TCGA-CZ-4862	yes	prior malignancy b-cell non-hodgkins lymphoma of the forehead treated with locoregional radiation.
+TCGA-CZ-4864	yes	pt with hx of rcc diagnosed in 2002 and treated with cryoablation in 2003. tumor then reocurred and was procurred in 2006.
+TCGA-CZ-4864	yes	pt with hx of rcc diagnosed in 2002 and treated with cryoablation in 2003. tumor then reocurred and was procurred in 2006. remove neo-adj.
+TCGA-D1-A3JP	unknown	unknown treatment history
+TCGA-D3-A1Q3	yes	prior interferon treatment < 90 days from tcga cancer procurement
+TCGA-D3-A2JF	yes	systemic treatment
+TCGA-D3-A3ML	yes	systemic treatment
+TCGA-D3-A3MU	yes	prior interferon treatment < 90 days from tcga cancer procurement
+TCGA-D8-A146	yes	systemic treatment given to the prior/other malignancy
+TCGA-D9-A148	yes	patient received immunotherapy/vaccine for the tcga tumor.
+TCGA-D9-A148	yes	systemic treatment
+TCGA-DJ-A3UU	unknown	patient had a prior basal cell carcinoma of the skin in head/neck region. unknown radiation or systemic chemotherapy.
+TCGA-DJ-A3UV	yes	patient had a prior non-hodgkins lymphoma that was treated with systemic chemotherapy.
+TCGA-DJ-A3V6	yes	patient had a prior non-hodgkins lymphoma that was treated with systemic chemotherapy.
+TCGA-DM-A285	yes	patient had a prior cancer of the parotid gland treated with locoregional radiation. no systemic chemotherapy.
+TCGA-DQ-5629	yes	[intgen.org]: subject positive for neo-adjuvant therapy
+TCGA-DV-5568	yes	prior malignancy  l kirc. no systemic chemotherapy or radiation. prior malignancy  of the eye treated with avastin. pt with synchronous bilateral kirc.
+TCGA-DV-5573	yes	prior malignancy pancreas cancer. no systemic chemotherapy or radition. prior malignancy r kirc treated with il-2. patient with synchronous l kirc.
+TCGA-DV-5573	yes	prior malignancy pancreas cancer. no systemic chemotherapy or radition. prior malignancy r kirc treated with il-2. patient with synchronous l kirc.
+TCGA-DV-5573	yes	prior malignancy pancreas cancer. no systemic chemotherapy or radition. prior malignancy r kirc treated with il-2. patient with synchronous l kirc.
+TCGA-EJ-7791	unknown	prior malignancy basal cell carcinoma l arm.  unknown treatment history.
+TCGA-EL-A3CS	yes	systemic treatment
+TCGA-EL-A3CY	yes	systemic treatment
+TCGA-EL-A3D0	unknown	unknown treatment history
+TCGA-EL-A3D5	unknown	unknown treatment history
+TCGA-EL-A3H2	yes	patient received radiation in early childhood to the thyroid unrelated to treatment of any malignancy
+TCGA-ER-A2NB	yes	patient received immunotherapy/vaccine for the tcga tumor.
+TCGA-ER-A2ND	yes	patient received chemotherapy for the tcga tumor.
+TCGA-ER-A2NE	yes	patient received chemotherapy for the tcga tumor.
+TCGA-ER-A2NG	yes	patient received immunotherapy/vaccine for the tcga tumor.
+TCGA-ER-A3ES	yes	patient received immunotherapy/vaccine for the tcga tumor.
+TCGA-ER-A3EV	yes	patient received an unknown systemic therapy for the tcga tumor.
+TCGA-ES-A2HS	yes	patient had a prior prostate adenocarcinoma treated with locoregional radiation. no systemic chemotherapy
+TCGA-EX-A449	yes	patient had a prior superficial spreading melanoma treated with locoregional radiation and systemic chemotherapy.
+TCGA-EY-A1G7	yes	patient had a previous uterine adenocarcinoma of the uterus treated with locoregional radiation. no systemic chemotherapy.
+TCGA-EY-A1G8	unknown	unknown treatment history
+TCGA-FS-A1ZF	unknown	patient had a prior lymphoma. unknown radiation or systemic chemotherapy.
+TCGA-G3-A3CG	yes	patient had a prior prostate adenocarcinoma treated wtih systemic chemotherapy and locoregional radiation.
+TCGA-G4-6294	unknown	prior malignancy prostate.  unknown treatment history.
+TCGA-G4-6298	unknown	prior malignancy prostate.  unknown treatment history.
+TCGA-G4-6310	yes	prior malignancy lymphoma treated with systemic chemotherapy.
+TCGA-G4-6310	yes	prior malignancy lymphoma treated with systemic chemotherapy.
+TCGA-G4-6314	yes	prior malignancy bladder cancer treated with unknown locoregional pharmaceuticals and radiation.
+TCGA-G4-6314	yes	prior malignancy bladder cancer treated with unknown locoregional pharmaceuticals and radiation.
+TCGA-G4-6321	yes	prior malignancy thyroid cancer treated with radioactive iodine
+TCGA-G4-6321	yes	prior malignancy thyroid cancer treated with radioactive iodine
+TCGA-G4-6625	yes	prior malignancy melanoma. no systemic chemotherapy or radiation. prior malignancy r breast treated with chemotherapy.
+TCGA-G4-6625	yes	prior malignancy r breast treated with chemotherapy.
+TCGA-G5-6233	yes	prior malignancy prostate cancer treated with locoregional radiation.
+TCGA-G5-6233	yes	prior malignancy prostate cancer treated with locoregional radiation.
+TCGA-G5-6235	yes	prior malignancy prostate cancer treated with locoregional radiation.
+TCGA-G5-6235	yes	prior malignancy prostate cancer treated with locoregional radiation.
+TCGA-G5-6572	yes	sample submitted was a recurrent tumor.  primary tumor was not submitted.  metastasis of primary tumor (which occurred before the recurrent tumor) was also submitted.  primary and metastatic tumors were treated systemically prior to procurement of submitted tissue.
+TCGA-G5-6572	yes	sample submitted was a recurrent tumor.  primary tumor was not submitted.  metastasis of primary tumor (which occurred before the recurrent tumor) was also submitted.  primary and metastatic tumors were treated systemically prior to procurement of submitted tissue.
+TCGA-G6-6237	unknown	unknown treatment history
+TCGA-G6-6254	unknown	unknown treatment history
+TCGA-G8-6906	yes	"patient was first diagnosed in 1987, and treated with chop chemotherapy. he then relapsed in 1990 and was again treated with chemo. he was diagnosed with recurrence again in 1994 and had surgery that yielded the sample sent for tcga."
+TCGA-GI-A2C8	yes	systemic treatment
+TCGA-GN-A261	yes	patient received immunotherapy/vaccine for the tcga tumor.
+TCGA-H9-7969	unknown	unknown treatment history
+TCGA-HF-7131	yes	"prior malignancy r breast cancer treated with epirubicin hydrochloride, fluorouracil, cyclophosphamide, docetaxel, and tamoxifen citrate."
+TCGA-HF-7131	yes	"prior malignancy r breast cancer treated with epirubicin hydrochloride, fluorouracil, cyclophosphamide, docetaxel, and tamoxifen citrate."
+TCGA-HS-A5N9	unknown	unknown treatment history
+TCGA-IB-7654	yes	systemic treatment given to the prior/other malignancy
+TCGA-IF-A3RQ	yes	patient had a prior tubular adenonoma of the colon. no radiation or systemic chemotherapy.
+TCGA-IF-A4AK	yes	"patient had an invasive mammary carcinoma, nos of the breast. patient had localized radiation and systemic chemotherapy."
+TCGA-IW-A3M6	yes	patient had a prior dcis in the breast. patient received local radiation but no systemic therapy. sarcoma is a uterine leiomyosarcoma.
+TCGA-KJ-A3U4	yes	patient had a previous invasive ductal adenocarcinoma of the breast that was treated with locoregional radiation and systemic chemotherapy.
+TCGA-KL-8328	yes	prior malignancy prostate cancer treated with locoregional radiation. prior malignancy oncocytoma r kidney. no systemic chemotherapy or radiation.
+TCGA-KL-8328	yes	prior malignancy prostate cancer treated with locoregional radiation. prior malignancy oncocytoma r kidney. no systemic chemotherapy or radiation.
+TCGA-KN-8430	yes	prior malignancy epitheliod cancer r pleura treated with alimta.
+TCGA-KN-8430	yes	prior malignancy epitheliod cancer r pleura treated with alimta.
+TCGA-L5-A88T	yes	systemic treatment given to the prior/other malignancy
+TCGA-NK-A5D1	yes	systemic treatment given to the prior/other malignancy
+TCGA-P5-A5EY	yes	systemic treatment
+TCGA-PC-A5DM	unknown	unknown treatment history
+TCGA-PC-A5DP	unknown	unknown treatment history
+TCGA-R8-A73M	unknown	unknown treatment history
+TCGA-UW-A7GR	yes	systemic treatment
+TCGA-WB-A820	yes	systemic treatment given to the prior/other malignancy

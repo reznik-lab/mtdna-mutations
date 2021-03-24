@@ -1,0 +1,16 @@
+type	wt	affected	N
+Head and Neck Cancer	8	5	13
+Prostate Cancer	10	5	15
+Adrenocortical Carcinoma	8	9	17
+Mesothelioma	38	5	43
+Cervical Cancer	34	13	47
+Glioma	34	13	47
+Esophagogastric Cancer	33	18	51
+Non-Small Cell Lung Cancer	39	15	54
+Ovarian Cancer	53	15	68
+Thyroid Cancer	7	62	69
+Endometrial Cancer	119	39	158
+Hepatobiliary Cancer	132	35	167
+Renal Cell Carcinoma	156	91	247
+Colorectal Cancer	156	123	279
+Breast Cancer	282	63	345
