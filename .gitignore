@@ -1,0 +1,5 @@
+data/SI_tables/gene_mutation_rates.txt
+*.swp
+*.tmp
+*.html
+*.pdf
