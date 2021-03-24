@@ -1,4 +1,4 @@
-# mtdna-mutations
+# Respiratory complex and tissue lineage drive recurrent mutations in tumour mtDNA
 
 ![alt text](https://github.com/reznik-lab/mtdna-mutations/blob/master/data/wiki.png "Hi there!")
 
