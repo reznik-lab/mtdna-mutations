@@ -468,7 +468,7 @@ genes$tmb_trunc <- 1e6*(genes$N_trunc/genes$covd_bps)
 genes$tmb_missense <- 1e6*(genes$N_missense/genes$covd_bps)
 
 ## save the data for SI table
-write.tsv(genes,here('data/SI_tables/gene_mutation_rates.txt'))
+write.tsv(genes,here('data/processed_data/gene_mutation_rates.txt'))
 
 ## also calculate high-vaf truncating rates
 tbl_mt_trunc_highvaf <- table.freq(tcga$Hugo_Symbol[tcga$Variant_Classification %in% truncating_classes & tcga$TumorVAF > 0.8])
