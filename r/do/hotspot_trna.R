@@ -149,11 +149,11 @@ test_trna_hotspots <- function(d, output_file, samples_callable_per_position_dat
 
 alignment_file <- here('data/original_data/resources/trna_alignment.txt')
 chrM_annotations_file <- here('data/original_data/resources/chrM_annotated.txt')
+samples_callable_per_position_file <- here('data/processed_data/misc/samples_callable_per_position_precalculated.txt')
 
 ## run for TCGA
 maf_file <- here('data/original_data/data_mutations_tcga.txt.gz')
 output_file <- here('data/processed_data/hotspots/hotspots_trna.txt')
-samples_callable_per_position_file <- here('data/processed_data/misc/samples_callable_per_position_precalculated.txt')
 
 maf_data <- fread(maf_file)
 samples_callable_per_position_data <- fread(samples_callable_per_position_file)
@@ -162,11 +162,10 @@ result_tcga <- test_trna_hotspots(maf_data, output_file, samples_callable_per_po
 
 
 
-
 ## run for PCAWG for validation
 maf_file <- here('data/original_data/data_mutations_pcawg.txt.gz')
-clin_file <- here('data/original_data/data_samples_pcawg.txt.gz')
 output_file <- here('data/processed_data/hotspots/hotspots_trna_pcawg.txt')
+clin_file <- here('data/original_data/data_samples_pcawg.txt.gz')
 
 maf_data <- fread(maf_file)
 clin_data <- fread(clin_file)

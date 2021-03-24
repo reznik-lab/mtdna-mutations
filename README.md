@@ -29,6 +29,9 @@ Generate html file with figures in the main text and extended data:
 R -e "rmarkdown::render('html/figures.Rmd', output_file = 'figures.html')"
 ```
 
+The generated file `html/figures.html` can be opened in a web browser to view the panels from the main text and extended data figures.
+
+
 ## Optional: 
 
 The above commands use data provided in this repo, including a number of "precalculated" datasets based on methods described in the manuscript. All such precalculated datasets are in the data/processed_data subdirectory, and can be recreated with the following commands:
@@ -47,42 +50,58 @@ if(!'fgsea' %in% installed.packages()) BiocManager::install("fgsea")
 ```shell
 ## Generate a table of number of samples covered per position, 
 ## and a matrix of effective-gene-lengths for each sample. Generates: 
-## - data/processed_data/misc/samples_callable_per_position.txt
-## - data/processed_data/misc/sample_gene_lengths.txt.gz
+## - data/processed_data/samples_callable_per_position.txt
+## - data/processed_data/sample_gene_lengths.txt.gz
+## Additionally generate similar files using a cutoff of 20 alt-reads rather than the default 5:
+## - data/processed_data/samples_callable_per_position20.txt
+## - data/processed_data/sample_gene_lengths20.txt.gz
 Rscript r/do/process_sample_coverage.R
 ```
 
-2. Determine recurrent positions for mtDNA SNV, truncating indels, and tRNA mutations: 
+2. Generate table of fraction of mtDNA with callable mutations in tumor, normal, and combined tumor+normal samples, at a threshold of 5+ alt reads, and 20+ alt reads: 
+```shell
+## Generates: data/processed_data/frac_callable.txt
+Rscript r/do/get_frac_callable.R
+```
+
+3. Determine recurrent positions for mtDNA SNV, truncating indels, and tRNA mutations: 
 ```shell
 ## Calculate SNP hotspots. Generates: 
-## - data/processed_data/hotspots/hotspots_snp.txt
-Rscript r/do/hotspot_snp.R
+## - data/processed_data/hotspots_snv.txt
+Rscript r/do/hotspot_snv.R
 
 ## Calculate frame-shift indel hotspots. Generates:
-## - data/processed_data/hotspots/hotspots_indel.txt
+## - data/processed_data/hotspots_indel.txt
 Rscript r/do/hotspot_indel.R
 
 ## Calculate tRNA alignment hotspots. Generates:
-## - data/processed_data/hotspots/hotspots_trna.txt
+## - data/processed_data/hotspots_trna.txt
+## - data/processed_data/hotspots_trna_pcawg.txt ## for figure EDF7b
 Rscript r/do/hotspot_trna.R
 ```
 
-3. Annotate samples with mtDNA variants, % callable, and overall mtDNA-status:
+4. Annotate samples with mtDNA variants, % callable, and overall mtDNA-status:
 ```shell
 ## Generates: 
-## - data/processed_data/hotspots/sample_hotspot_status.txt 
-## - data/processed_data/hotspots/hotspot_region_map.txt
+## - data/processed_data/sample_hotspot_status_tcga.txt
+## - data/processed_data/sample_hotspot_status_impact.txt
+## - data/processed_data/hotspot_region_map.txt
 Rscript r/do/annotate_sample_mutations.R
 ```
 
-4. Calculate differentially-expressed genes and run GSEA:
+5. Calculate differentially-expressed genes and run GSEA:
 ```shell
-## Generates: 
-## - data/processed_data/rnaseq/
-## Download TCGA RNA-Seq RSEM counts (1.8GB file, will take some time):
-wget http://api.gdc.cancer.gov/data/3586c0da-64d0-4b74-a449-5ff4d9136611 -O data/ext/EBPlusPlusAdjustPANCAN_IlluminaHiSeq_RNASeqV2.geneExp.tsv
+## Generates 
+## - data/processed_data/rnaseq_truncating_gsea_hallmark_precalculated.txt
+## - data/processed_data/rnaseq_truncating_histogram_precalculated.txt
+## - data/processed_data/rnaseq_vus_gsea_hallmark_precalculated.txt
+## - data/processed_data/rnaseq_vus_histogram_precalculated.txt
+## - data/processed_data/rnaseq_r25q_gsea_hallmark_precalculated.txt
 
-## Run DESeq and fGSEA analyses:
+## First, download TCGA RNA-Seq RSEM data (1.8GB file):
+wget http://api.gdc.cancer.gov/data/3586c0da-64d0-4b74-a449-5ff4d9136611 -O data/original_data/resources/EBPlusPlusAdjustPANCAN_IlluminaHiSeq_RNASeqV2.geneExp.tsv
+
+## Now run DESeq and fGSEA analyses:
 Rscript r/do/run_deseq.R
 ```
 
