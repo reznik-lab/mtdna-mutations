@@ -1,6 +1,6 @@
 # Respiratory complex and tissue lineage drive recurrent mutations in tumour mtDNA
 
-[[https://github.com/reznik-lab/mtdna-mutations/blob/main/data/wiki.png]]
+![alt text](https://github.com/reznik-lab/mtdna-mutations/blob/main/data/wiki.png "Fig 1a. Schematic of OXPHOS system and project workflow")
 
 # Instructions:
 The following steps can be used to recreate the essential parts of the figures in the manuscript. All code is in R (>=3.6.0).
