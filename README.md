@@ -106,7 +106,7 @@ Rscript r/do/run_deseq.R
 ```
 
 ### Citation
-- URL: **pending**
+- URL: https://www.nature.com/articles/s42255-021-00378-8
 - DOI: https://doi.org/10.1038/s42255-021-00378-8
 
 ### Contact
