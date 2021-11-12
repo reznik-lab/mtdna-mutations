@@ -18,7 +18,7 @@ Install required R packages from CRAN:
 required.packages <- c('data.table','ggplot2','cowplot','RColorBrewer',
                        'parallel','ggsignif','binom','scales',
                        'MASS','ggrepel','Hmisc','Rcpp',
-                       'car','here','magrittr','knitr','rmarkdown','survminer')
+                       'car','here','magrittr','knitr','rmarkdown','survminer','DescTools')
 
 new.packages <- required.packages[!(required.packages %in% installed.packages()[,"Package"])]
 if(length(new.packages)>0) install.packages(new.packages)
