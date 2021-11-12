@@ -18,11 +18,13 @@ Install required R packages from CRAN:
 required.packages <- c('data.table','ggplot2','cowplot','RColorBrewer',
                        'parallel','ggsignif','binom','scales',
                        'MASS','ggrepel','Hmisc','Rcpp',
-                       'car','here','magrittr','knitr','rmarkdown')
+                       'car','here','magrittr','knitr','rmarkdown','survminer')
 
 new.packages <- required.packages[!(required.packages %in% installed.packages()[,"Package"])]
 if(length(new.packages)>0) install.packages(new.packages)
 ```
+
+You will also need to install Pandoc if you don't already have it, see: https://pandoc.org/installing.html
 
 Generate html file with figures in the main text and extended data:
 ```shell
